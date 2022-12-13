@@ -1,25 +1,5 @@
-[![CI](https://github.com/nogibjj/python-template/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/python-template/actions/workflows/cicd.yml)
-## Template for Python projects 
+## Assimilate Java
 
-1. First thing to do on launch is to open a new shell and verify virtualenv is sourced.
+### Notes on setup for Java Devcontainer
 
-Things included are:
-
-* `Makefile`
-
-* `Pytest`
-
-* `pandas`
-
-* `Pylint`
-
-* `Dockerfile`
-
-* `GitHub copilot`
-
-* `jupyter` and `ipython` 
-
-* A base set of libraries for devops and web
-
-* `githubactions` 
-
+* [created devcontainer](https://github.com/microsoft/vscode-remote-try-java/blob/main/.devcontainer/Dockerfile)
