@@ -1,5 +1,10 @@
 ## Assimilate Java
 
+
+### Day 3:  Build a Marco Polo command-line tool with Maven
+
+
+
 ### Day 2:  Setup Maven
 
 * [Follow guide here for maven in five-minutes](https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html)
